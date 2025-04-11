@@ -90,8 +90,7 @@ Contributions are welcome! If you would like to contribute to this repository, p
 5. Create a pull request.
     
 
-```markdown
----
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alikhan-devs/" target="_blank">
