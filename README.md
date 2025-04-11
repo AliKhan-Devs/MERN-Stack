@@ -39,7 +39,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/mern-stack-projects.git
+   git clone https://github.com/alikhan-devs/mern-stack.git
 
 2. **Navigate to project directory:**
 
