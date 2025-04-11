@@ -59,23 +59,22 @@ Make sure you have the following installed:
    npm run dev:all
   The frontend will be available at http://localhost:3000 and the backend at http://localhost:5000.
 
+
 ### Folder Structure
-The folder structure is organized as follows:
- ```graphql
- mern-stack-projects/
-├── project-name/                # Folder for the project
-│   ├── client/                 # React frontend forproject
-│   ├── server/                 # Express API for project
-│   └── .env                    # Environment variables for project
-├── other-project-1/            # Other MERN stack project
-├── other-project-2/            # Other MERN stack project
-├── .gitignore                  # Git ignore file
-├── README.md                   # This file
-└── package.json                # Root dependencies and scripts
-
-
-### Contributing
-
+  The folder structure is organized as follows:
+   ```graphql
+   mern-stack-projects/
+  ├── project-name/               # Folder for the project
+  │   ├── client/                 # React frontend forproject
+  │   ├── server/                 # Express API for project
+  │   └── .env                    # Environment variables for project
+  ├── other-project-1/            # Other MERN stack project
+  ├── other-project-2/            # Other MERN stack project
+  ├── .gitignore                  # Git ignore file
+  ├── README.md                   # This file
+  └── package.json                # Root dependencies and scripts
+  ```
+### Contribution
 Contributions are welcome! If you would like to contribute to this repository, please follow these steps:
 
 1. Fork the repository.
@@ -87,4 +86,5 @@ Contributions are welcome! If you would like to contribute to this repository, p
 4. Push your changes (git push origin feature/your-feature).
 
 5. Create a pull request. 
+
 
