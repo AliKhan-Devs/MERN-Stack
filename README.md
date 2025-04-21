@@ -97,7 +97,7 @@ Contributions are welcome! If you would like to contribute to this repository, p
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:alikhan9327224@gmail.com">
+  <a href="mailto:alikhandevs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
